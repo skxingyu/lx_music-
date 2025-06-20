@@ -2,7 +2,6 @@
 
 lx_music音源
 在线导入：https://fastly.jsdelivr.net/gh/Huibq/keep-alive/render_api.js
-更多的音源
 ## 六音
 https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/sixyin/latest.js
 ## Huibq
