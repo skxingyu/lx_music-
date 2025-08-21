@@ -8,7 +8,7 @@ https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/sixyin/
 https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/huibq/latest.js
 ## Flower
 https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/flower/latest.js
-## 洛雪
+## 洛雪（这个好用，自己都在用这个）
 https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/lx/latest.js
 ## ikun
 https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/ikun/latest.js
