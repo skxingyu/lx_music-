@@ -1,14 +1,15 @@
 # lx_music(洛雪音乐音源)
 
 lx_music音源
-在线导入：https://fastly.jsdelivr.net/gh/Huibq/keep-alive/render_api.js
+在线导入：
+
 ## 六音
 https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/sixyin/latest.js
 ## Huibq
 https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/huibq/latest.js
 ## Flower
 https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/flower/latest.js
-## 洛雪（这个好用，自己都在用这个）
+## 洛雪（这个公众号好像有点寄了）
 https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/lx/latest.js
 ## ikun
 https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/ikun/latest.js
