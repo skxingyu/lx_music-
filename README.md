@@ -9,7 +9,7 @@ https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/sixyin/
 https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/huibq/latest.js
 ## Flower
 https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/flower/latest.js
-## 洛雪（这个公众号好像有点寄了）
+## 洛雪（文件中有更新的版本，叫独家音源4.0）
 https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/lx/latest.js
 ## ikun
 https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/ikun/latest.js
