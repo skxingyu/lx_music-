@@ -26,12 +26,14 @@ https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/sixyin/
 https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/huibq/latest.js
 ## Flower
 https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/flower/latest.js
-## 洛雪（文件中有更新的版本，叫独家音源4.0）
+## 洛雪LX
 https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/lx/latest.js
-## ikun
-https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/ikun/latest.js
-## Grass
-https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/grass/latest.js
+## 长青
+https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/changqing/latest.js
+## huanyin
+https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/huanyin/latest.js
+## 星海
+https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/xinghai/latest.js
 
 ##在应用的音源导入的地方选择在线导入，输入该网址即可
-至25/6/20测试可用
+至26/11/06测试可用
